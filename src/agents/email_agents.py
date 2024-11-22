@@ -15,8 +15,12 @@ class EmailAnalyst(object):
     
     def invoke(self, subject, sender, email):
         message=[SystemMessage(content="""
-                               You are given an email text. Your task is to determine whether the email contains both personal and work-related content.
-                               If the email is both personal and work-related, then you should respond with "Important". Otherwise, you should respond with "Not Important".
+                               You are given an email text. 
+                               Your task is to determine whether the email contains both personal or 
+                               work-related content.
+                               If the email is both personal and work-related, 
+                               then you should respond with "Important". Otherwise, 
+                               you should respond with "Not Important".
                                """),
                  
                  HumanMessage(content="""
