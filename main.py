@@ -1,7 +1,7 @@
 from src.graph import Graph
-from src.state import State
 
 
-graph=Graph().get_graph()
+def run():
+    graph=Graph().get_graph()
 
-graph.invoke({"email_ids":[]})
+    graph.invoke({"email_ids":[]})

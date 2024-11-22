@@ -10,7 +10,6 @@ class Graph(object):
     def __init__(self):
         self.node=Nodes()
 
-
     def get_graph(self):
         work_flow=StateGraph(State)
 
