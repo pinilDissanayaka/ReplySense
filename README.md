@@ -1,4 +1,4 @@
-# ReplySense - Email Reply Automation
+# ReplySense - Email Reply Automation Agent
 ReplySense leverages GPT-4 to automatically generate email replies based on unread emails. It integrates with the Gmail API to fetch emails, and OpenAI's GPT-4 for generating context-aware replies. The application is built using Streamlit, which provides an interactive UI for users to generate and send email responses.
 
 ## Features
