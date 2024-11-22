@@ -15,20 +15,8 @@ class EmailAnalyst(object):
     
     def invoke(self, subject, sender, email):
         message=[SystemMessage(content="""
-                               You are an advanced email assistant trained to evaluate emails and 
-                               classify them based on their importance. 
-                               Using the provided email information, assign the 
-                               email to one of the following categories:
-                                    Important: Emails that require attention or action, including but not limited to:
-                                        Personal messages
-                                        Work-related correspondence
-                                        Critical or time-sensitive updates
-                                    Not Important: Emails that are promotional, automated, or informational in nature, such as:
-                                        Spam
-                                        Newsletters
-                                        Promotions or advertisements
-                                        Delivery confirmations or transactional notifications
-                                        Automated notifications from platforms (e.g., YouTube channel updates, aliexpress)
+                               You are given an email text. Your task is to determine whether the email contains both personal and work-related content.
+                               If the email is both personal and work-related, then you should respond with "Important". Otherwise, you should respond with "Not Important".
                                """),
                  
                  HumanMessage(content="""
