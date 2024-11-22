@@ -1,4 +1,7 @@
-from src.graph import app
+from src.graph import Graph
 from src.state import State
 
-app.invoke({"email_ids":[]})
+
+graph=Graph().get_graph()
+
+graph.invoke({"email_ids":[]})

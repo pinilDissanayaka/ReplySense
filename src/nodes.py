@@ -62,7 +62,7 @@ class Nodes(object):
                 })
                 
         return{
-            ** state,
+            **state,
             "action_required_emails":action_required_emails,
             "emails":emails
         }
@@ -76,15 +76,6 @@ class Nodes(object):
         else:
             return "continue"
             
-            
-    def wait(self, state: State):
-        time.sleep(2)
-        
-        print("wait")
-        
-        return{
-            ** state
-        }
 
     def report_emails(self, state: State):
         emails=state["action_required_emails"]
@@ -99,17 +90,18 @@ class Nodes(object):
                 md_file.write("-"*150 + "\n")
                 
         return {
-            ** state
+            **state
         }
         
     def write_draft(self, state: State):
         emails=state["action_required_emails"]
+        
         
         for idx, email in enumerate(emails):
             EmailDrafter().invoke(email=email["body"], subject=email["subject"], sender=email["sender"])
             emails.pop(idx)
             
         return{
-            ** state,
+            **state,
             "action_required_emails":emails
         }
