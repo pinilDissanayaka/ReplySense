@@ -86,9 +86,6 @@ https://click.convertkit-mail2.com/p9ug9rlx4ztqund5pvuqhpzq8333hr/8ghqhohl5k8n8g
 )------------------------------------------------------------------------------------------------------------------------------------------------------
 Email 6
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Date: Thu, 21 Nov 2024 18:41:35 -0800 (PST)Id: 19351bf14179baecSender: AliExpress <ae-sales.notice06@mail.aliexpress.com>Subject: JUST IN: new auto & moto itemsBody: ------------------------------------------------------------------------------------------------------------------------------------------------------
-Email 7
-------------------------------------------------------------------------------------------------------------------------------------------------------
 Date: Thu, 21 Nov 2024 17:35:02 -0500Id: 19350dd550d692adSender: Jobscan Team <team@hello.jobscan.co>Subject: We'd Love Your Feedback + 5 Free ScansBody: Thanks for sharing your thoughts!
 
 View in browser (https://info.jobscan.co/e3t/Ctc/S+113/cvzDf04/VWW6Rt1-N6tYN18q38wyrs-xW2C4PM95nG-pSN2qdv1C5m_5PW6N1X8z6lZ3ndW8hfB5N2V_Tw7W3YmTXX7j9ZhgW1rcBnK99FCpZW21FG5p50tRbQW14gnRS9kcxlnW94kpkP3Bs-jLW7vfVrV74fDFTW6jyxlG4wHpb6W6ZCbYj7YDn_-N99HQkKhHkffVpKC2q4PZqHsW84XY6-6Kx5G1N805PgKgLpQrW6Lbd5B4DNb7VW6RXrrT5FB2M0W7rVPvp7HqvfRVqJWCn6f3VR0W54tYMs6GVnmXW7X0h_T4bx0kpW3L7bC38BzSdYW3gF1ck99x06xN2DVNksKYKllN7L6D_gCtrM6N8C0ls3V2mXkN7QrFgdSZRblN2CqXq4XlzwQW1n-nF92FMwgkN1ZHzzX2yWsMW3tv6r77fqDNVN57GxY8RlB5MW7bwxVl1CQWFpW6xQJPZ129V_WW11mNWn9gq5QqW6X_zCl5w3T69W3l_y343Cz4JfW4wrMgN8R4RfnW8yhwt86-fFTKW3gVH201LWr7Xf5qzgjs04 )
@@ -122,7 +119,7 @@ Jobscan, 1518 1st Ave S, Seattle, WA 98134
 
 Unsubscribe (https://info.jobscan.co/hs/preferences-center/en/direct?data=W2nXS-N30h-ScW3LPzh336mY2vW2t1cYK309mfjW1_sg-h1Nfvy6W2r6YrF3dnC5rW2MnlQL2w3xkJW38c3j447B9JQW1Lw3Pb2Tz3SNW32CvH_2PK3tsW213HP_2FC9JCW1LFz3t4kMxZSW4rqtXR4ph9dkW3f-Pm81BswR3W3db_kw1Bcdp2W1XdGxN2THRDVW1ZfMCB34gQfZW1ZlGj72MvzrRW3NRw-D2MmZMpW4kf1bj2Pl1ZtW251DhY32zkT9W4fxWpr4tFHJLW24_FDk3_N6CnW3_TDqM1Z0PzcW1_f6Dp43FZYjW3_sZG-4pqfL8W2xMk_V2THNLLW3810MB2t75X9W4fpsqM3ZDQxhW25pfQR3yN4JLW3zg_bV3yWDVRW3XGhQ5306RpKW2qPc9k41LM6_W2HmXzs3dbcn3W36pzyF2CF4TYW1Vc8HY2sDD4VW1XcvdN4pHPHXW4fwHLL4rnkwMW38ctgk3W11NqW38Dytt3CjrTvW1S117B3NPNdDW47PnMm47lkx9W1Xv2Tg4tDTsCW2YDpWf38sgVRW2w66qZ3XHCWvW43DgKJ4rq4HbW30GB812-c9wLW24_c0p49rrDm0&_hsenc=p2ANqtz-82Tyc4AhfF-Abm_ZAWwR2pJqPX0NhciYwMkElLBAXcwnt9p8WC88ywlwrPu8fBJOWkCTM-sGqfrVxEMBtGMPJHJohkIwltuoNE7nJv5oGuAHmogn4&_hsmi=335086510 )
 Manage preferences (https://info.jobscan.co/hs/preferences-center/en/page?data=W2nXS-N30h-ScW3LPzh336mY2vW2t1cYK309mfjW1_sg-h1Nfvy6W2r6YrF3dnC5rW2MnlQL2w3xkJW38c3j447B9JQW1Lw3Pb2Tz3SNW32CvH_2PK3tsW213HP_2FC9JCW1LFz3t4kMxZSW4rqtXR4ph9dkW3f-Pm81BswR3W3db_kw1Bcdp2W1XdGxN2THRDVW1ZfMCB34gQfZW1ZlGj72MvzrRW3NRw-D2MmZMpW4kf1bj2Pl1ZtW251DhY32zkT9W4fxWpr4tFHJLW24_FDk3_N6CnW3_TDqM1Z0PzcW1_f6Dp43FZYjW3_sZG-4pqfL8W2xMk_V2THNLLW3810MB2t75X9W4fpsqM3ZDQxhW25pfQR3yN4JLW3zg_bV3yWDVRW3XGhQ5306RpKW2qPc9k41LM6_W2HmXzs3dbcn3W36pzyF2CF4TYW1Vc8HY2sDD4VW1XcvdN4pHPHXW4fwHLL4rnkwMW38ctgk3W11NqW38Dytt3CjrTvW1S117B3NPNdDW47PnMm47lkx9W1Xv2Tg4tDTsCW2YDpWf38sgVRW2w66qZ3XHCWvW43DgKJ4rq4HbW30GB812-c9wLW24_c0p49rrDm0&_hsenc=p2ANqtz-82Tyc4AhfF-Abm_ZAWwR2pJqPX0NhciYwMkElLBAXcwnt9p8WC88ywlwrPu8fBJOWkCTM-sGqfrVxEMBtGMPJHJohkIwltuoNE7nJv5oGuAHmogn4&_hsmi=335086510 )------------------------------------------------------------------------------------------------------------------------------------------------------
-Email 8
+Email 7
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Date: Thu, 21 Nov 2024 20:50:21 +0000 (UTC)Id: 193507dff13f12b4Sender: Joey DeBruin <joey@roboagencies.com>Subject: The New MoonshotsBody: Over the past few weeks Robo has started to take off. We’re
 shipping more products for clients using the AI-augmented
@@ -180,3 +177,87 @@ https://unsubscribe.convertkit-mail2.com/wvuqwrq7q3fgh5zqoo2u7hn3d8xxxu8
 ) ​
 ​© 2023 Backdrop Labs
 1932 Washington Ave, Santa Monica, CA 90403------------------------------------------------------------------------------------------------------------------------------------------------------
+Email 8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Date: Thu, 21 Nov 2024 19:19:07 +0000Id: 1935029f99e91aaeSender: "DeepLearning.AI" <no-reply@m.mail.coursera.org>Subject: One month free to get certified with DeepLearning.AIBody: Dear Pinil Dissanayaka,
+
+
+Build foundational knowledge in AI, machine learning and deep learning with 
+our long-form courses! Now through the end of the year, you can get your 
+first month free on the course or specialization of your choice from 
+DeepLearning.AI.
+
+
+Get Started
+
+
+
+Why choose DeepLearning.AI's foundational courses?
+
+
+      * Learn from industry experts: Study with AI leaders including Andrew
+        Ng, Sharon Zhou, and Joe Reis
+
+
+      * Built for career impact: Gain experience in everything from AI
+        basics to advanced deep learning with structured learning programs
+
+
+      * Proven curriculum: Join millions of learners who've successfully
+        advanced their careers in AI through highly rated courses
+
+
+      * New programs: Explore our newly released Data Engineering and
+        Generative AI for Software Development professional certificates
+
+
+      * Earn a certificate: Demonstrate your knowledge by earning an
+        industry recognized certificate that you can add to your resume and
+        share online
+
+
+Strong foundations matter, and with ground-up understanding, you'll be 
+better equipped to tackle complex challenges, diagnose issues, and 
+implement effective solutions.
+
+
+Pro tip: Many employers offer education reimbursement - check if you can 
+expense your investment in continued education!
+
+
+Make the most of 2024 today with your first month free. 
+
+
+Get Certified
+
+
+
+- The DeepLearning.AI team
+
+
+DeepLearning.AI
+You are receiving this email because pinildissanayaka@gmail.com is 
+registered for promotional emails from DeepLearning.AI on Coursera.
+Please do not reply directly to this email. If you have any questions or 
+feedback,
+please visit our learner help center
+ 
+.
+[facebook]
+ 
+[twitter]
+ 
+[blog]
+ 
+[blog]
+
+[ Coursera ]
+
+Copyright (c) 2024 Coursera, Inc | 381 E. Evelyn Avenue, Mountain View, CA 
+94041 USA
+To opt-out of receiving emails from this Partner, unsubscribe here.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Email 9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Date: Fri, 22 Nov 2024 00:30:14 +0530Id: 1935018e0e079108Sender: Anuradha Ranathunga <anuradhaa2001@gmail.com>Subject: =?UTF-8?B?SGkgY3VkZG9vLi7wn4ya?=Body: Ummmmmaaaaaaaa…..🤭🫶❤️
+------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -71,9 +71,9 @@ class Nodes(object):
         emails=state["action_required_emails"]
         
         if len(emails) == 0:
-            "end"
+            return "wait"
         else:
-            "continue"
+            return "continue"
             
             
     def wait(self, state: State):

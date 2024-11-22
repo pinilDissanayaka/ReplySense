@@ -28,7 +28,7 @@ work_flow.add_conditional_edges(
    "filter_emails",
    node.decider,
    {
-       "end": "wait",
+       "wait": "wait",
        "continue": "report_emails"
    }
 )
