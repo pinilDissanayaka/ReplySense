@@ -37,6 +37,7 @@ class Nodes(object):
                 email_ids.append(email["id"])
         
         return{
+            **state,
             "unread_emails":unread_emails,
             "email_ids":email_ids
         }
