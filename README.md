@@ -6,7 +6,8 @@ ReplySense leverages GPT-4 to automatically generate email replies based on unre
 - Automated Reply Generation: Automatically generates professional email replies using GPT-4.
 - Reply Customization: Users can edit the generated reply before sending.
 - Email Sending: Send the generated reply directly from the app.
-- Setup Instructions
+
+## Setup Instructions
   
 1. Clone the Repository
 First, clone this repository to your local machine:
